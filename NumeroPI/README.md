@@ -1,6 +1,6 @@
-# APROXIMACIÓN DEL NÚMERO PI POR EL MÉTODO DE MONTECARLO
+# APROXIMACIÓN DE π POR EL MÉTODO DE MONTECARLO
 
-## Breve descripción de la aplicación
+## Descripción de la aplicación
 
 * Resumen: el software que se publica en este repositorio permite
   [aproximar el número Pi mediante simulación](https://www.youtube.com/watch?v=ELetCV_wX_c)
