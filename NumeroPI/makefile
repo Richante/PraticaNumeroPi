@@ -10,3 +10,4 @@ compilar: limpiar
 
 jar: compilar
 	jar cvfm $(fichJar) Manifest -C bin . 
+
